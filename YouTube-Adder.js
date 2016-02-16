@@ -7,7 +7,7 @@
 // @author       GlavVlad
 // @match        https://www.youtube.com/feed/subscriptions
 // @grant        none
-// @updateURL
+// @updateURL    https://raw.githubusercontent.com/GlavVlad/YouTube-Adder/master/YouTube-Adder.js
 // ==/UserScript==
 
 var collection = document.getElementsByClassName('shelf-title-cell');
